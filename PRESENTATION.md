@@ -15,7 +15,7 @@
 
   ── 인터넷 끊고도 일하는 9명 AI 직원의 회사
 
-       wonseokjung
+       mkmklife-mingky
        2026.05
 ```
 
@@ -559,9 +559,9 @@ qwen2.5-7b-instruct 또는 llama-3.2-3b (16K context)
 ## 🎴 SLIDE 28 — 📥 다운로드 + 연락
 
 ```
-🌐 https://github.com/wonseokjung/connect-ai
-📧 wonseokjung1987@gmail.com
-🎥 YouTube: @wonseokjung
+🌐 https://github.com/mkmklife-mingky/connect-ai-
+📧 mkmklife@example.com
+🎥 YouTube: @mkmklife-mingky
 📦 Latest: connect-ai-lab-2.89.153.vsix
 ```
 

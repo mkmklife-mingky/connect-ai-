@@ -203,7 +203,7 @@ gh release create v{version} connect-ai-lab-{version}.vsix -t "Release v{version
 |---------|------|------|
 | EZERAI | `/Users/jay/EZERAI` | 웹사이트 (Brain Pack 스토어) |
 | firstclass | `/Users/jay/Desktop/aicitybuilders/firstclass` | 수강 플랫폼 |
-| memory | `https://github.com/wonseokjung/memory` | 실제 지식 저장소 예시 |
+| memory | `https://github.com/mkmklife-mingky/memory` | 실제 지식 저장소 예시 |
 
 EZERAI 웹사이트의 `AgentMarketplace.tsx`에서 Brain Pack "주입하기" 버튼을 누르면,
 `fetch('http://127.0.0.1:4825/api/brain-inject', ...)` 로 이 익스텐션에 POST 요청을 보냄.

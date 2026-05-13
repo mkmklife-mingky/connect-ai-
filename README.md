@@ -2,7 +2,7 @@
   <img src="assets/icon.png" width="120" alt="Connect AI Logo" />
 </p>
 
-<h1 align="center">Connect AI v2 (P-Reinforce)</h1>
+<h1 align="center">밍키의 AI 1인 기업 (Connect AI)</h1>
 
 <p align="center">
   <strong>100% Local · 100% Offline · Autonomous Knowledge Engine</strong><br/>
@@ -20,7 +20,7 @@
 
 ## 🌟 Overview: The P-Reinforce Architecture
 
-Connect AI v2.1.30은 단순한 코딩 에이전트를 넘어섭니다. **P-Reinforce 아키텍처**를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 받아들여 **스스로 의미를 분석하고, 폴더를 생성하고, 마크다운 위키 파일로 정리하여 클라우드에 자동 백업**하는 자율 지식 정원사(Autonomous Gardener)입니다.
+Connect AI (밍키 에디션)은 단순한 코딩 에이전트를 넘어섭니다. **P-Reinforce 아키텍처**를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 받아들여 **스스로 의미를 분석하고, 폴더를 생성하고, 마크다운 위키 파일로 정리하여 클라우드에 자동 백업**하는 자율 지식 정원사(Autonomous Gardener)입니다.
 
 ---
 
@@ -60,13 +60,13 @@ Ollama 또는 LM Studio에 설치된 모델을 내부 API(`v1/models`)를 호출
 ## 📥 Installation (설치 방법)
 
 ### A.U 멤버십 유저 (Recommended)
-1. 상단 탭의 [Releases](https://github.com/wonseokjung/connect-ai/releases) 메뉴로 진입.
-2. 최신 `v2.1.30.vsix` 파일을 다운로드.
+1. 상단 탭의 [Releases](https://github.com/mkmklife-mingky/connect-ai-/releases) 메뉴로 진입.
+2. 최신 버전을 다운로드.
 3. VS Code 에서 `Cmd+Shift+P` → **Extensions: Install from VSIX** → 다운받은 파일 선택
 
 ### 개발자 빌드 (Build from Source)
 ```bash
-git clone https://github.com/wonseokjung/connect-ai.git
+git clone https://github.com/mkmklife-mingky/connect-ai-.git
 cd connect-ai
 npm install
 npm run compile
@@ -101,6 +101,6 @@ Connect AI에서 설정만 "Ollama"로 바꿔주시면 끝납니다.
 ---
 
 <p align="center">
-  <strong>Built for Antigravity & Agent University</strong><br/>
-  Designed by <a href="https://github.com/wonseokjung">Jay</a> × Connect AI Architect
+  <strong>Built for 밍키의 1인 기업 & Agent University</strong><br/>
+  Designed by <a href="https://github.com/mkmklife-mingky">홍밍키</a> × Connect AI Architect
 </p>
